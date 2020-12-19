@@ -1,6 +1,6 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
-# Maketing Analysis
+# Maketing Analysis: Customer Lifetime Value Prediction
 *Aline D'Intino*
 
 *Data Analytics, Amsterdam December 2020*
@@ -13,13 +13,12 @@
 
 
 ## Project Description and Goal Statement
-The AR (Accounts Receivable) can be a source of financial difficulties for companies when they are not managed efficiently.
-This project aims to demonstrate how Supervised Machine Learning can help to predict the outcome of payment of invoices that have not yet been paid (outstanding) based on historical data.
-The method used can predict with high accuracy in which age bucket (on time, 1-15, 16-30, over 30) invoices will be paid.
-This approach enables the creation of more efficient workflows based on payment behaviour thus increasing collections effectiveness.
+Goal: Solving a real life business problem using Data Science tooling and ML techniques.
+Performing marketing analysis by segmenting customers and predicting Customer Lifetime Value (LTV).
+
 
 ## Dataset
-This data was provided by IBM for testing out their analytics tools. Source: Kaggle.
+E-commerce dataset from UCI Machine Learning Repository. 
 
 
 ## Workflow
@@ -30,12 +29,12 @@ Steps for the project:
 - Training and evalutating ML models for classification problem.
 
 
+
 What does your repository look like?
-- Data folder
 - gitignore file
 - README file
 - Analysis file.
 
 ## Links
-[Repository](https://github.com/alinedintino/project5-ML)  
-[Slides](https://docs.google.com/presentation/d/1-PWgyg2tmYFaDOfTAVMDPsWnv6YL1DEOtKsHr4P-itw/edit?usp=sharing)  
+[Repository](https://github.com/alinedintino/project6-ML)  
+[Slides](https://docs.google.com/presentation/d/1Z4A8_aUFpZIWEFkxEJ35_s8ws94_ZDe_Y4gg4UADwvg/edit?usp=sharing)  
